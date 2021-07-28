@@ -1,5 +1,4 @@
 
-//generics class and extends Coparable method for it
 public class GenericsMaxFinder <T extends Comparable>{
     //generics Array
 	private T[] inputArray;
